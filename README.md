@@ -16,7 +16,7 @@ VULTR 是 2014 年成立的国外 VPS 商家。他们的特点是按小时计费
 
 特拉维夫是 VULTR 在亚洲地区的第 8 个机房,也是他们全球的第 32 个数据中心。对于需要覆盖中东、北非地区用户的业务来说,这个机房能提供更好的访问速度。
 
-![VULTR 全球数据中心分布图](image/07233869.webp)
+<img width="3349" height="1869" alt="image" src="https://github.com/user-attachments/assets/c155d01b-f890-46c9-9d81-cc4e8c82419b" />
 
 目前 VULTR 的机房分布情况：
 
